@@ -10,11 +10,11 @@
 <p align="left">I'm Shwetha from Bengaluru, India<br><br>- 🔭 I’m currently a student in my final year of engineering<br>- 📚 I'm currently learning Solidity and Rust<br>- ⚡ In my free time I enjoy watching movies and kdramas, sketching, singing and playing basketball</p>
 
 ###
-
+<!--
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-<!--
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
